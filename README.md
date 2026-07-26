@@ -1,7 +1,31 @@
 
-<img src="https://i.ibb.co.com/5XKw1y9M/kawser.jpg" alt="kawser" border="0" width="100%">
+<div align="center">
+  
+  # Hi there, I'm a Web Developer in training! 👋
 
-# Hi there, I'm [KAWSER AHAMAD] 👋
+  ### 🌱 Currently learning Full Stack Web Development
+
+  Building responsive, interactive, and modern web applications. 
+  Here is my current tech stack:
+
+  <br />
+
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <br />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+
+  <br />
+  <br />
+
+  <img src="[https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat](https://ibb.co.com/LDNH0WPk)" alt="Profile Views" />
+
+</div>
+
+# Hi there, I'm KAWSER AHAMAD 👋
 ### Front-End / Web Developer
 
 ## 🙋‍♂️ About Me
