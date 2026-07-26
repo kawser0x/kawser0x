@@ -61,12 +61,7 @@ I am a passionate Web Developer focused on crafting clean, responsive, and user-
 </p>
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kawser0x&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawser0x&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kawser0x&theme=tokyonight" alt="GitHub Streak" />
 </p>
