@@ -21,7 +21,7 @@
   <br />
   <br />
 
-  <img src="[https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat](https://ibb.co.com/LDNH0WPk)" alt="Profile Views" />
+  <img src="https://i.ibb.co.com/5XKw1y9M/kawser.jpg" alt="kawser" border="0">
 
 </div>
 
