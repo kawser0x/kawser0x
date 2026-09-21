@@ -1,21 +1,21 @@
 <div align="center">
 
   <!-- Header Banner / Title -->
-  <h1><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%90%8B+I'm+Kawser+Ahamad;Full-Stack+MERN+Developer;Building+Modern+Web+Apps;React+%7C+Next.js+%7C+Node.js" alt="Typing SVG" /></h1>
+  <h1><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%90%8B+I'm+Kawser+Ahamad;Full-Stack+Web+Developer;Building+Modern+Web+Apps;React+%7C+Next.js+%7C+Node.js" alt="Typing SVG" /></h1>
 
   <p align="center">
-    <strong>Passionate Full-Stack Web Developer (MERN Stack)</strong> crafting scalable, high-performance, and visually engaging web applications.
+    <strong>Passionate Full-Stack Web Developer</strong> crafting scalable, high-performance, and visually engaging web applications.
   </p>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/kawser-ahamad-09k" target="_blank">
+    <a href="https://www.linkedin.com/in/kawser-ahamad-09k/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://x.com/kawserswe" target="_blank">
-      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
     </a>
     <a href="https://www.facebook.com/2004kawser" target="_blank">
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    </a>
+    <a href="mailto:kawserswe@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
 
@@ -27,10 +27,10 @@
       <td width="70%" valign="top">
         <h3>🚀 About Me</h3>
         <p>
-          I am a dedicated <strong>MERN Stack Developer</strong> focused on building full-stack web applications that solve real-world problems. With strong expertise in both frontend UI/UX and backend API development, I bridge the gap between design and functionality.
+          I am a dedicated <strong>Full-Stack Web Developer</strong> focused on building web applications that solve real-world problems. With strong expertise in both frontend UI/UX and backend API development, I bridge the gap between design and functionality.
         </p>
         <ul>
-          <li>🔭 <strong>Currently working on:</strong> A full-featured Book Selling & E-Commerce Platform.</li>
+          <li>🔭 <strong>Currently working on:</strong> A secure, full-stack Payment Gateway & Transaction System website.</li>
           <li>🌱 <strong>Exploring:</strong> Next.js App Router, Server Actions, & Microservices.</li>
           <li>💬 <strong>Ask me about:</strong> React, Node.js, Express, MongoDB, Tailwind CSS, REST APIs.</li>
           <li>⚡ <strong>Fun Fact:</strong> When I'm not coding, I'm an avid reader & tech enthusiast!</li>
@@ -89,25 +89,22 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>📚 Book Selling & Management Platform</h3>
-      <p>A full-stack e-commerce web platform designed for discovering, purchasing, and reviewing books online.</p>
+      <h3>🏋️ Fitness For Life</h3>
+      <p>A comprehensive web application designed for users to track workouts, monitor fitness goals, and maintain a healthy lifestyle.</p>
       <ul>
-        <li><strong>Key Features:</strong> Role-based access (Admin/User), shopping cart, secure checkout, book inventory management.</li>
-        <li><strong>Tech Stack:</strong> React, Node.js, Express.js, MongoDB, Tailwind CSS, JWT Auth.</li>
+        <li><strong>Key Features:</strong> Activity tracking, responsive dashboard, user progress analytics, interactive UI.</li>
+        <li><strong>Tech Stack:</strong> React, JavaScript, Tailwind CSS, REST APIs.</li>
       </ul>
-      <!-- Replace # with your live demo and repo URLs -->
-      <a href="https://github.com/kawser0x" target="_blank">💻 Code Repository</a> | 
-      <a href="#" target="_blank">🌐 Live Demo</a>
+      <a href="https://github.com/kawser0x/Fitness-For-Life-Client" target="_blank">💻 Code Repository</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🎨 Modern Developer Portfolio & UI Components</h3>
-      <p>A sleek, highly responsive portfolio showcasing interactive frontend UI elements and projects.</p>
+      <h3>📚 StudyNook</h3>
+      <p>An interactive collaborative learning platform designed for students to organize study materials and manage tasks seamlessly.</p>
       <ul>
-        <li><strong>Key Features:</strong> Dark/Light mode theme, dynamic project showcase, responsive layouts, SEO optimized.</li>
-        <li><strong>Tech Stack:</strong> Next.js, React, Tailwind CSS, JavaScript.</li>
+        <li><strong>Key Features:</strong> Study room management, task tracking, collaborative tools, intuitive user interface.</li>
+        <li><strong>Tech Stack:</strong> React, Node.js, Express.js, MongoDB, Tailwind CSS.</li>
       </ul>
-      <a href="https://github.com/kawser0x" target="_blank">💻 Code Repository</a> | 
-      <a href="#" target="_blank">🌐 Live Demo</a>
+      <a href="https://github.com/kawser0x/studynook" target="_blank">💻 Code Repository</a>
     </td>
   </tr>
 </table>
@@ -142,16 +139,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kawser-ahamad-09k" target="_blank">
+  <a href="https://www.linkedin.com/in/kawser-ahamad-09k/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/kawserswe" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   <a href="https://www.facebook.com/2004kawser" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:kawserswe@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
